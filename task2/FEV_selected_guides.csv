@@ -1,0 +1,4 @@
+guideId,protospacer,pam,genome_strand,chrom,target_start,target_end,dist_from_TSS,fully_in_exon1,gc_pct,mit_spec,cfd_spec,doench16,moreno_mateos,rule_set3,graf,poly_T,ot_mm0,ot_mm1,ot_mm2,ot_mm3,ot_mm4,ot_le2mm,AT,window_genes,recommended
+285forw,GTTGGAGACTTTATTGCGAT,GGG,-,NC_000002.12,218985396,218985418,240,True,40.0,93,93,55,66,-63,GrafOK,False,0,0,0,3,48,0,0.6,,True
+259forw,GGGTGCGCTTGGCTGTGGCG,CGG,-,NC_000002.12,218985422,218985444,214,True,75.0,72,80,55,57,61,GrafOK,False,0,0,0,17,170,0,0.25,PLCXD1,False
+165forw,GCGGAAAAGACACGCGCTCT,AGG,-,NC_000002.12,218985516,218985538,120,True,60.0,94,97,51,54,-24,tt,False,0,0,0,2,39,0,0.4,,True
